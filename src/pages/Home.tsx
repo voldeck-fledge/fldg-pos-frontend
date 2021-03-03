@@ -35,7 +35,7 @@ class Home extends React.Component<any, any> {
         <Card shadow margin={20}>
           <h4>{`Order Menu`}</h4>
           <Link to="/demo/bufficorn-cafe">
-            <SDemoButton>{"Demo"}</SDemoButton>
+            <SDemoButton>{"Demo-o-o-o"}</SDemoButton>
           </Link>
         </Card>
       </PageWrapper>
